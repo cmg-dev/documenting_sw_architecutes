@@ -23,6 +23,13 @@ Use it online or as desktop, it's up to you.
 Import the drawio file from the [here](./c4_model_shapes.drawio).
 and get started with your diagram.
 
+**Things I like**
+
+| Idx | Thing                                                                                                                                                                                  |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | The diagram is supposed to work on whiteboards easily. For this purpose the C4 model provides just a small set of elements that work in the [Notation](https://c4model.com/#Notation). |
+| 2   | They have a checklist for good diagrams. See the [Checklist](https://c4model.com/assets/software-architecture-diagram-review-checklist.pdf).                                           |
+
 **References**
 
 1. [BPMN](https://de.wikipedia.org/wiki/Business_Process_Model_and_Notation)
